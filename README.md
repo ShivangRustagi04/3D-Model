@@ -21,9 +21,15 @@ source venv/bin/activate  # On Windows use `venv\Scripts\activate`
 # Requirements.txt
 
 python>=3.8
+
 torch>=1.12.0
+
 numpy>=1.21.0
+
 opencv-python>=4.5.0
+
 rembg>=2.0.0
+
 pyrender>=0.1.45
+
 shap-e@git+https://github.com/openai/shap-e.git
