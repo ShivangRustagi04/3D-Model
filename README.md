@@ -16,8 +16,9 @@ This prototype converts either images or text prompts into simple 3D models in O
 ```bash
 python -m venv venv
 source venv/bin/activate  # On Windows use `venv\Scripts\activate`
+```
 
-#requirements.txt
+# Requirements.txt
 
 python>=3.8
 torch>=1.12.0
